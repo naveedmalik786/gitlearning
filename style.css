@@ -1,0 +1,17 @@
+table{
+    width: 50%;
+    border-collapse: collapse;
+
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+ /* th,tr:hover{
+    
+    background-color: azure;    
+ } */
+ tr.even{
+    background-color:red ;
+ }
